@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="25653" started-at="2021-05-20T20:17:27 IST" finished-at="2021-05-20T20:17:53 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="25653" started-at="2021-05-20T20:17:27 IST" finished-at="2021-05-20T20:17:53 IST">
+      <class name="com.googleSearch.TestCases.GooglePageTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.googleSearch.TestCases.GooglePageTests@76707e36]" name="setUp" is-config="true" duration-ms="13940" started-at="2021-05-20T20:17:27 IST" finished-at="2021-05-20T20:17:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SearhItemsTest()[pri:0, instance:com.googleSearch.TestCases.GooglePageTests@76707e36]" name="SearhItemsTest" duration-ms="11574" started-at="2021-05-20T20:17:41 IST" finished-at="2021-05-20T20:17:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearhItemsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.googleSearch.TestCases.GooglePageTests@76707e36]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-05-20T20:17:53 IST" finished-at="2021-05-20T20:17:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.googleSearch.TestCases.GooglePageTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
